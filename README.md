@@ -13,6 +13,10 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-1.png">
 </p> 
 
+  </p align = "center">
+<img src="https://github.com/weerapat1995/LAB-12/blob/master/imgs/12.1.png">
+</p> 
+
 **หมายเหตุ** ในบรรทัดที่ 23 หากนักศึกษาต้องการแสดงไฟล์อื่น ก็ให้ใส่ path พร้อมชื่อ แต่ต้องใส่ \\ แทน \ เนื่องจาก ในภาษา C# นั้น เครื่องหมาย \ จะเป็น escape character เช่นเดียวกับภาษา c และ c++
 
 ##การ Zoom ภาพ
@@ -24,6 +28,10 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-2.png">
 </p> 
 
+  </p align = "center">
+<img src="https://github.com/weerapat1995/LAB-12/blob/master/imgs/12.2.png">
+</p> 
+
 
 ### การ Zoom in  
 คือการกำหนดให้ Rectangle ปลายทาง โตกว่า Rectangle ของภาพ ในที่นี้จะเลือกภาพมาแสดง
@@ -31,16 +39,27 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
 </p align = "center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-3.png">
 </p> 
+  </p align = "center">
+<img src="https://github.com/weerapat1995/LAB-12/blob/master/imgs/12.3.png">
+</p> 
+
 
 ### การพลิกและหมุนภาพ
  </p align = "center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-4.png">
 </p> 
+  </p align = "center">
+<img src="https://github.com/weerapat1995/LAB-12/blob/master/imgs/12.4.png">
+</p> 
+
 
 
 ## การเขียนข้อความลงในภาพ
  </p align = "center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-12/blob/master/imgs/lab12-5.png">
+</p> 
+  </p align = "center">
+<img src="https://github.com/weerapat1995/LAB-12/blob/master/imgs/12.5.png">
 </p> 
 
 
